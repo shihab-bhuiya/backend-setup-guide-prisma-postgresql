@@ -1,4 +1,4 @@
-# backend-setup-guide-prisma-postgresql
+# Backend-setup-guide-Prisma-Postgresql
 A reusable backend setup and reference guide using Node.js, Express, TypeScript, Prisma, and PostgreSQL
 
 # Node.js + Express + TypeScript + Prisma + PostgreSQL
